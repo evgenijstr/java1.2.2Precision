@@ -1,6 +1,6 @@
 ## Краткое описание
 
-14.08.2021 было проведено функциональное тестирование методом белого ящика приложения Credit card number validator
+14.08.2021 было проведено функциональное тестирование методом белого ящика приложения Precision
 
 На тестирование затрачено: 40 минут
 
@@ -9,8 +9,8 @@
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
-* тест-кейс https://docs.google.com/spreadsheets/d/1e9eY1GGlccvK1I99BbMqwzSu1cbZojpifHM_Y24DYnQ/edit?usp=sharing
-* образец кода https://docs.google.com/document/d/18zQqu7Qlfjyi36x1lktjJKrK5EyH_peMnKNtLlLCZdk/edit?usp=sharin
+* [тест-кейс](https://docs.google.com/spreadsheets/d/1e9eY1GGlccvK1I99BbMqwzSu1cbZojpifHM_Y24DYnQ/edit?usp=sharing)
+* [образец кода](https://github.com/evgenijstr/java1.2.2Precision/blob/master/src/code.txt)
 
 
 В качестве тестовых данных использовались следующие контейнеры и переменные
